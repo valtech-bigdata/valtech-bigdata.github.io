@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Présentation de InfluxDB"
+date: 2015-08-28
+categories:
+---
+
+# Présentation de InfluxDB
+
+### Speaker : Romain Lecomte
+### Date : 28 août 2015
+
+![alt text](https://github.com/valtech-bigdata/images/influxdb.png "InfluxDB")
+
+InfluxDB est une base de données NoSQL dont la promesse est de permettre la manipulation et l'analyse de grosses quantités de données numériques.
+Dans cette présentation, vous apprendrez les concepts et la philosophie d'InfluxDB : Pour quoi faire? Comment l'utiliser?
