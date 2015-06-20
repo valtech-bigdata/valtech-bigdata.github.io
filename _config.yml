@@ -1,8 +1,7 @@
 # Site settings
-title: Polar Bear
+title: Valtech_
 email: 
-description: > # this means to ignore newlines until "baseurl:"
-  Jekyll Theme Demo
+description: Présentation Big data 2015
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://username.github.io" # the base hostname & protocol for your site
 twitter_username: username

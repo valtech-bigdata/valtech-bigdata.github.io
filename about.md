@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-*Polar Bear* is a lightweight and customisable Jekyll Theme.
+Présentation Big data 2015, Valtech Toulouse.
 
 * Author: Camille Diez
 * Github: http://github.com/diezcami
