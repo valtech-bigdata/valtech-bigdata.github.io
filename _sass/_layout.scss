@@ -14,7 +14,9 @@
         }
     }
 
-    .site-header a, a h1:hover {color: #FFF};
+    .site-header a, .site-header p, a h1:hover {color: #FFF};
+
+    .site-header p { font-size: xx-large };
 
     .site-header h1 {
         display: block;
@@ -33,7 +35,6 @@
     }
 
     .site-header span {
-        border: 10px solid #FFF;
         padding: 0.3em 0.5em;
         margin: 10px 20px;
         display: inline-block;
