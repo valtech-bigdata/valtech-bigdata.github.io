@@ -33,6 +33,7 @@ Le jeu de données doit être téléchargé depuis l'url suivante:
 
 * [Données d'entraînement](https://raw.githubusercontent.com/valtech-bigdata/valtech-bigdata.github.io/master/azureMamlResx/Heart Disease Data Set (original).csv)
 
-Autres ressources utiles:
-* [Query SQL] (https://raw.githubusercontent.com/valtech-bigdata/valtech-bigdata.github.io/master/azureMamlResx/SqlTransformationQuery.txt)
+Autres ressources utiles:  
+
+* [Query SQL] (https://raw.githubusercontent.com/valtech-bigdata/valtech-bigdata.github.io/master/azureMamlResx/SqlTransformationQuery.txt)  
 * [Algorithm Cheat Sheet] (https://raw.githubusercontent.com/valtech-bigdata/valtech-bigdata.github.io/master/azureMamlResx/machine-learning-algorithm-cheat-sheet.png)
