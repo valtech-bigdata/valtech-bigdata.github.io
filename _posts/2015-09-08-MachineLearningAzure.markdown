@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Azure Machine Learning Pour la prédiction de pathologies cardiaques"
+title: "Azure ML - Prédiction de pathologies cardiaques"
 date: 2015-09-08
 author: David Toussaint
 ---
