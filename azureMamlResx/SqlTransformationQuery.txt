@@ -1,0 +1,18 @@
+SELECT "Age",
+CASE "Sex" WHEN '0' THEN 'F' ELSE 'M'
+END AS "Sex",
+"Chest pain type",
+"Resting blood pressure",
+"Serum cholestoral (mg/dl)",
+"Fasting blood sugar > 120 mg/dl",
+"Resting electrocardiographic results",
+"Maximum heart rate achieved",
+"Exercise induced angina",
+"Oldpeak",
+"Slope of the peak exercise ST segment",
+"Number of major vessels colored by
+flourosopy",
+"Thal",
+"Presence of Heart Disease" - 1 AS
+"Presence of Heart Disease"
+FROM t1;
