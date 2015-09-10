@@ -11,8 +11,9 @@ author: David Toussaint
 
 ### Le Machine Learning - De quoi s’agit-il ?
 Le Machine Learning utilise des ordinateurs pour exécuter des modèles prédictifs qui apprennent à partir de données existantes afin de prévoir les tendances, résultats et comportements futurs.
-Ces prévisions ou prédictions générées à partir du Machine Learning peuvent rendre les applications et les appareils plus intelligents.
-* Lorsque vous faites vos achats en ligne, le Machine Learning permet de recommander d’autres produits que vous êtes susceptible d’aimer, en fonction de ce que vous avez acheté.
+Ces prévisions ou prédictions générées à partir du Machine Learning peuvent rendre les applications et les appareils plus intelligents.  
+
+* Lorsque vous faites vos achats en ligne, le Machine Learning permet de recommander d’autres produits que vous êtes susceptible d’aimer, en fonction de ce que vous avez acheté.  
 * Lorsque vous utilisez votre carte de crédit, l'algorithme de machine learning compare la transaction à une base de données de transactions et aide la banque à détecter des fraudes.
 
 ### Qu’est-ce que Machine Learning sur Microsoft Azure ?
